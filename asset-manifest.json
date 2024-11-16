@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-task/static/css/main.c6f34d57.css",
+    "main.js": "/react-task/static/js/main.4ef070a5.js",
+    "static/media/user.png": "/react-task/static/media/user.557587208eb9e232f2ca.png",
+    "static/media/add.png": "/react-task/static/media/add.8f3e201717e14eef2a30.png",
+    "static/media/close.png": "/react-task/static/media/close.6e58fe214b91460bba81.png",
+    "static/media/view.png": "/react-task/static/media/view.0b5c67b9c9c6e2b4b7d1.png",
+    "index.html": "/react-task/index.html",
+    "main.c6f34d57.css.map": "/react-task/static/css/main.c6f34d57.css.map",
+    "main.4ef070a5.js.map": "/react-task/static/js/main.4ef070a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6f34d57.css",
+    "static/js/main.4ef070a5.js"
+  ]
+}
